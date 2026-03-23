@@ -1,7 +1,7 @@
 {
   "name": "crux",
   "description": "Agentic Tool Manager for Claude Code — manage MCP servers, skills, and projects with per-project scoping and OS keychain auth",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": {
     "name": "crux-cli"
   },
