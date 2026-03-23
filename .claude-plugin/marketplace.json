@@ -1,0 +1,14 @@
+{
+  "name": "crux-marketplace",
+  "owner": {
+    "name": "crux-cli",
+    "email": "crux-cli@users.noreply.github.com"
+  },
+  "plugins": [
+    {
+      "name": "crux",
+      "description": "Agentic Tool Manager for Claude Code — manage MCP servers, skills, and projects with per-project scoping and OS keychain auth.",
+      "source": "./plugins/crux"
+    }
+  ]
+}
